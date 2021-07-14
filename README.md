@@ -1,4 +1,4 @@
 # taiwanlottery
 Taiwan Lottery
 
-<img src="result.png" alt="Result">
+<img src="result.PNG" alt="Result">
